@@ -29,11 +29,12 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amorimdofront/amorimdofront/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amorimdofront/amorimdofront/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amorimdofront/amorimdofront/output/pacman-contribution-graph.svg">
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amorimdofront/amorimdofront/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amorimdofront/amorimdofront/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amorimdofront/amorimdofront/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
+
 
 #
 
