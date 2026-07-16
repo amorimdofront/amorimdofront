@@ -32,7 +32,7 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amorimdofront/amorimdofront/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amorimdofront/amorimdofront/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/duque31/duque31/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amorimdofront/amorimdofront/output/pacman-contribution-graph.svg">
 </picture>
 
 #
