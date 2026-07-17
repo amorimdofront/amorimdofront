@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=c40d00&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem-Vindo,+ao+Meu+Perfil!++=])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=#c40d00&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem-Vindo,+ao+Meu+Perfil!++=])](https://git.io/typing-svg)
 #
 <p align="center">
   <img src=".github/workflows/Banner para LinkedIn redator publicitário moderno preto e laranja.gif" />
@@ -27,7 +27,7 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+ 
    
 </div>
 
