@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=#c40d00&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem-Vindo,+ao+Meu+Perfil!++=])](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=c40d00&size=35&center=true&vCenter=true&width=1000&lines=[=++Bem-Vindo,+ao+Meu+Perfil!++=])](https://git.io/typing-svg)
 #
 <p align="center">
   <img src=".github/workflows/Banner para LinkedIn redator publicitário moderno preto e laranja.gif" />
