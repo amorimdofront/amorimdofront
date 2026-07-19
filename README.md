@@ -12,8 +12,9 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 
 <div data-importer="socials" align="center">
   <a href="https://portifolioamorim.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portifolio&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
     <a/>
-  <img src="https://img.shields.io/static/v1?message=Portifolio&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  
   <a href="https://br.linkedin.com/in/pablo-amorim-439361312?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
